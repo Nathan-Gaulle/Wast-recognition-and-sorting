@@ -1,0 +1,3 @@
+/Users/nathan/Documents/cours/ing2/S1/programmation/C/coree/build/CMakeFiles/projet.dir
+/Users/nathan/Documents/cours/ing2/S1/programmation/C/coree/build/CMakeFiles/edit_cache.dir
+/Users/nathan/Documents/cours/ing2/S1/programmation/C/coree/build/CMakeFiles/rebuild_cache.dir
